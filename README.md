@@ -7,7 +7,6 @@
 
 ### Technologies Used
 - C#
-- Python
 
 ### Status
 ⚠️ Early development stage – Features and functionality are subject to change.
