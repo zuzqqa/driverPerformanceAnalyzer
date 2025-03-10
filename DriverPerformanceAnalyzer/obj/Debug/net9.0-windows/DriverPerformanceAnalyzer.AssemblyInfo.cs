@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DriverPerformanceAnalyzer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5c7052537b33694aeaafd2298824f380f3acfd7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c03840e1946180251b4a39ddd4483652b1f1e45")]
 [assembly: System.Reflection.AssemblyProductAttribute("DriverPerformanceAnalyzer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DriverPerformanceAnalyzer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

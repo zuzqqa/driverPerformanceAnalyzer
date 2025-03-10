@@ -1,6 +1,4 @@
-﻿using System.Configuration;
-using System.Data;
-using System.Windows;
+﻿using System.Windows;
 
 namespace DriverPerformanceAnalyzer
 {
@@ -9,7 +7,6 @@ namespace DriverPerformanceAnalyzer
     /// </summary>
     public partial class App : Application
     {
-        // Importowanie funkcji do alokowania konsoli
         [System.Runtime.InteropServices.DllImport("kernel32.dll")]
         public static extern bool AllocConsole();
     }
